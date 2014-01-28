@@ -1,4 +1,5 @@
 /*! Colemanator - v1.1.1 - 2014-01-24
+* https://github.com/mikemadman/colemanator
 * Mike Coleman
 * Ekko Media
 * Copyright 2014 M3 Holdings; Licensed MIT
