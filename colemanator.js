@@ -10,6 +10,8 @@
  * test
  */
 
+console.log('ello');
+
 [].forEach.call(
 	document.querySelectorAll('.colemanator'),
 	function(el) {
