@@ -1,13 +1,14 @@
 /*! Colemanator - v1.1.1 - 2014-01-24
-* https://github.com/mikemadman/colemanator
-* Mike Coleman
-* Ekko Media
-* Copyright 2014 M3 Holdings; Licensed MIT
-* USAGE: <div class="colemanator" data-ct-click="myToggleClass" data-ct-hover="myToggleClass" data-ct-target="myTargetElement"></div>
-* data-ct-click is used to toggle specified class on click
-* data-ct-hover is used to toggle specified class on hover
-* data-ct-target is optional target element to apply the css class to. if no target class will be toggled on element.
-*/
+ * https://github.com/mikemadman/colemanator
+ * Mike Coleman
+ * Ekko Media
+ * Copyright 2014 M3 Holdings; Licensed MIT
+ * USAGE: <div class="colemanator" data-ct-click="myToggleClass" data-ct-hover="myToggleClass" data-ct-target="myTargetElement"></div>
+ * data-ct-click is used to toggle specified class on click
+ * data-ct-hover is used to toggle specified class on hover
+ * data-ct-target is optional target element to apply the css class to. if no target class will be toggled on element.
+ * test
+ */
 
 [].forEach.call(
 	document.querySelectorAll('.colemanator'),
