@@ -10,7 +10,7 @@
  * test
  */
 
-console.log('hola world');
+console.log('hola world 3');
 
 [].forEach.call(
 	document.querySelectorAll('.colemanator'),
