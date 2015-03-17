@@ -10,7 +10,7 @@
  * test
  */
 
-console.log('hello world');
+console.log('hola world');
 
 [].forEach.call(
 	document.querySelectorAll('.colemanator'),
@@ -47,3 +47,5 @@ console.log('hello world');
 		}
 	}
 );
+
+// helloo
