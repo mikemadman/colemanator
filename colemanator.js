@@ -10,7 +10,7 @@
  * test
  */
 
-console.log('ello');
+console.log('ell');
 
 [].forEach.call(
 	document.querySelectorAll('.colemanator'),
